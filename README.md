@@ -1,2 +1,2 @@
 # EDUREKA
-DEMO
+DEMO this is for tutorial purpose
